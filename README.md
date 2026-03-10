@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 📫 How to reach me **https://discordapp.com/users/785562537679912960**
+- 🎓  I am currently working on obtaining my HTL diploma.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
