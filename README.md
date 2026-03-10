@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 🎓  I am currently working on obtaining my HTL diploma.**
+- 🕵️‍♂️ Currently spying on other countries from Antarctica
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
