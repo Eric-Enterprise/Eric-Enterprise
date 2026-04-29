@@ -205,6 +205,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0369a1,70:030d1f,100:03040a&height=130&section=footer&animation=fadeIn)
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20watch%20the%20clock%3B%20do%20what%20it%20does.%20Keep%20going.&author=Sam%20Levenson)
 
 </div>
