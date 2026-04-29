@@ -1,198 +1,211 @@
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--                  HEADER WAVE BANNER               -->
+
+<!-- ████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:03040a,30:030d1f,60:0c2a4a,85:0369a1,100:38bdf8&height=260&section=header&text=Eric&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20%20Anonymous%20GitHub%20Developer%20%20✦&descAlignY=64&descSize=18&descColor=bae6fd&stroke=38bdf8&strokeWidth=2)
 
-<!--        ANIMATED HEADER — LIQUID GLASS WAVE     -->
+</div>
 
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,40:0369a1,70:0ea5e9,100:38bdf8&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Eric&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=◈%20Anonymous%20GitHub%20Developer%20◈&descAlignY=62&descSize=17&descColor=bae6fd)
+<!--                  TYPING ANIMATION                  -->
 
-<!-- ─── ANIMATED TYPING LINE ─────────────────────── -->
+<!-- ████████████████████████████████████████████████████ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=🌊+Developer;🌱+Learning+Python+%26+C;🎮+Game+Dev+%7C+Unity+%7C+Unreal;☁️+Cloud+%7C+Docker+%7C+Linux;⚡+Building+awesome+projects...;🔥+Open+Source+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7DD3FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=45&lines=🌱+Currently+learning+Python+%26+C;🎮+Game+Dev+%7C+Unity+%7C+Unreal+Engine;☁️+Cloud+%7C+Docker+%7C+Linux+%7C+AWS;⚡+Building+cool+open+source+stuff;🔌+Embedded+Systems+%7C+Arduino)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- ─── BADGE ROW ──────────────────────────────────── -->
+<!-- ████████████████████████████████████████████████████ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=eric-enterprise&color=0ea5e9&style=for-the-badge&label=VIEWS)
-![Discord](https://img.shields.io/badge/Discord-steamdb-38bdf8?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c1a2e)
-![Status](https://img.shields.io/badge/Status-Coding%20%F0%9F%9A%80-0ea5e9?style=for-the-badge&labelColor=0c1a2e)
-![Focus](https://img.shields.io/badge/Focus-Python%20%26%20C-7dd3fc?style=for-the-badge&labelColor=0c1a2e)
+<!--                  STATUS BADGES                     -->
 
-</div>
-
------
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<!--                   ABOUT ME                     -->
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<img align="right" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-
-### 🧊 About Me
-
-```typescript
-const eric = {
-  role:      "Anonymous GitHub Developer",
-  location:  "🌍 Internet",
-  learning:  ["Python 🐍", "C ⚡"],
-  passions:  ["Game Dev 🎮", "Cloud ☁️", "Embedded 🔌"],
-  tools:     ["Docker", "Linux", "React", "Node.js"],
-  contact:   "discord.gg/steamdb",
-  funFact:   "I build things nobody asked for 😄"
-};
-```
-
-<br clear="right"/>
-
------
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<!--               TECH ICONS (skillicons)          -->
-
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🛠️ Languages & Tools
+<!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,c,css,docker&theme=dark&perline=6)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=electron,firebase,git,html,linux,mysql&theme=dark&perline=6)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=nginx,nodejs,python,react,unity,unreal&theme=dark&perline=6)](https://skillicons.dev)
+![views](https://komarev.com/ghpvc/?username=eric-enterprise&style=for-the-badge&color=0369a1&labelColor=03040a&label=PROFILE+VIEWS) 
+![discord](https://img.shields.io/badge/Discord-steamdb-38bdf8?style=for-the-badge&logo=discord&logoColor=38bdf8&labelColor=03040a&color=0c2a4a) 
+![status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-22d3ee?style=for-the-badge&labelColor=03040a)
 
 </div>
+
+<br/>
 
 -----
 
-<!-- ═══════════════════════════════════════════════ -->
+<br/>
 
-<!--                 GITHUB STATS                   -->
+<!-- ████████████████████████████████████████████████████ -->
 
-<!-- ═══════════════════════════════════════════════ -->
+<!--                    ABOUT ME                        -->
 
-## 📊 GitHub Stats
+<!-- ████████████████████████████████████████████████████ -->
 
-<div align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eric-enterprise&show_icons=true&theme=transparent&border_radius=20&hide_border=false&border_color=0ea5e9&bg_color=020c1b&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&ring_color=0284c7" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-enterprise&layout=compact&theme=transparent&border_radius=20&hide_border=false&border_color=0ea5e9&bg_color=020c1b&title_color=38bdf8&text_color=bae6fd" height="175"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eric-enterprise&theme=dark&hide_border=false&border=0ea5e9&border_radius=20&background=020c1b&stroke=0ea5e9&ring=38bdf8&fire=0ea5e9&currStreakNum=38bdf8&sideNums=7dd3fc&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=bae6fd)](https://git.io/streak-stats)
-
-</div>
-
------
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<!--              ACTIVITY GRAPH                    -->
-
-<!-- ═══════════════════════════════════════════════ -->
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eric-enterprise&theme=react-dark&bg_color=020c1b&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&area_color=0369a1&hide_border=false&border_color=0ea5e9&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
------
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<!--                 TROPHIES                       -->
-
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=eric-enterprise&theme=nord&no-frame=false&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
------
-
-<!-- ═══════════════════════════════════════════════ -->
-
-<!--           CONTRIBUTION SNAKE 🐍                -->
-
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/eric-enterprise/eric-enterprise/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/eric-enterprise/eric-enterprise/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eric-enterprise/eric-enterprise/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<details>
-<summary>⚡ <b>Snake einrichten — 1 Minute Setup</b></summary>
-
-Erstelle `.github/workflows/snake.yml` in deinem Profil-Repo:
+### 🧊  About Me
 
 ```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ name     : Eric
+ role     : Anonymous GitHub Developer
+ pronouns : he / him
+ learning : [ Python, C ]
+ loves    : [ Game Dev, Cloud, Embedded ]
+ stack    : [ React, Node.js, Docker, Linux ]
+ contact  : discord.gg/steamdb
+ status   : Always building something 🚀
 ```
 
-</details>
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:16px"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 -----
 
-## 🔗 Connect
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--              LANGUAGES & TOOLS                     -->
+
+<!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c1a2e)](https://discord.gg/steamdb)
+### 🛠️  Languages & Tools
+
+<br/>
+
+[![skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,c,css,docker,electron,firebase,git,html,linux,mysql,nginx,nodejs,python,react,unity,unreal&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
+<br/>
+
 -----
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--                  GITHUB STATS                      -->
+
+<!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,60:0ea5e9,100:020c1b&height=120&section=footer&animation=fadeIn)
+### 📊  GitHub Stats
 
-*⭐ Drop a star if you like my profile!*
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=eric-enterprise&show_icons=true&count_private=true&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&hide_border=false" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-enterprise&layout=compact&langs_count=8&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&text_color=bae6fd&hide_border=false" height="180"/>
+
+<br/><br/>
+
+[![streak](https://streak-stats.demolab.com?user=eric-enterprise&theme=transparent&hide_border=false&border=0369a1&border_radius=18&background=03040a&stroke=0369a1&ring=38bdf8&fire=7dd3fc&currStreakNum=ffffff&sideNums=bae6fd&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=475569&excludeDaysLabel=475569)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+-----
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--               ACTIVITY GRAPH                       -->
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### 📈  Contribution Graph
+
+<br/>
+
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=eric-enterprise&bg_color=03040a&color=7dd3fc&line=0369a1&point=38bdf8&area=true&area_color=0c2a4a&hide_border=false&border_color=0369a1&radius=16&custom_title=Eric's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+-----
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--                   TROPHIES                         -->
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### 🏆  GitHub Trophies
+
+<br/>
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=eric-enterprise&theme=algolia&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+-----
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--                  CONNECT                           -->
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### 🔗  Connect with Me
+
+<br/>
+
+[![discord](https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=03040a)](https://discord.gg/steamdb)
+
+</div>
+
+<br/>
+
+-----
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<!--                  FOOTER WAVE                       -->
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0369a1,70:030d1f,100:03040a&height=130&section=footer&animation=fadeIn)
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
 </div>
