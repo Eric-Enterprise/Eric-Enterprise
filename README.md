@@ -10,7 +10,7 @@
 
 <!-- ─── ANIMATED TYPING LINE ─────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=🌊Developer;🌱+Learning+Python+%26+C;🎮+Game+Dev+%7C+Unity+%7C+Unreal;☁️+Cloud+%7C+Docker+%7C+Linux;⚡+Building+awesome+projects...;🔥+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=🌊+Developer;🌱+Learning+Python+%26+C;🎮+Game+Dev+%7C+Unity+%7C+Unreal;☁️+Cloud+%7C+Docker+%7C+Linux;⚡+Building+awesome+projects...;🔥+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
