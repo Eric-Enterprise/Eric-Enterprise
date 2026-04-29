@@ -59,7 +59,6 @@
 ```yaml
  name     : Eric
  role     : Anonymous GitHub Developer
- pronouns : he / him
  learning : [ Python, C ]
  loves    : [ Game Dev, Cloud, Embedded ]
  stack    : [ React, Node.js, Docker, Linux ]
