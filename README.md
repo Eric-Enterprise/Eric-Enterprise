@@ -1,7 +1,5 @@
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                  HEADER WAVE BANNER               -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -11,9 +9,7 @@
 </div>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                  TYPING ANIMATION                  -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -25,15 +21,13 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                  STATUS BADGES                     -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=eric-enterprise&style=for-the-badge&color=0369a1&labelColor=03040a&label=PROFILE+VIEWS) 
-![discord](https://img.shields.io/badge/Discord-steamdb-38bdf8?style=for-the-badge&logo=discord&logoColor=38bdf8&labelColor=03040a&color=0c2a4a) 
+![views](https://komarev.com/ghpvc/?username=eric-enterprise&style=for-the-badge&color=0369a1&labelColor=03040a&label=PROFILE+VIEWS) 
+![discord](https://img.shields.io/badge/Discord-steamdb-38bdf8?style=for-the-badge&logo=discord&logoColor=38bdf8&labelColor=03040a&color=0c2a4a) 
 ![status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-22d3ee?style=for-the-badge&labelColor=03040a)
 
 </div>
@@ -45,16 +39,14 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                    ABOUT ME                        -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top" width="55%">
 
-### 🧊  About Me
+### 🧊  About Me
 
 ```yaml
  name     : Eric
@@ -82,14 +74,12 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--              LANGUAGES & TOOLS                     -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### 🛠️  Languages & Tools
+### 🛠️  Languages & Tools
 
 <br/>
 
@@ -104,14 +94,12 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                  GITHUB STATS                      -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### 📊  GitHub Stats
+### 📊  GitHub Stats
 
 <br/>
 
@@ -132,14 +120,12 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--               ACTIVITY GRAPH                       -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### 📈  Contribution Graph
+### 📈  Contribution Graph
 
 <br/>
 
@@ -154,14 +140,12 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-
 <!--                   TROPHIES                         -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### 🏆  GitHub Trophies
+### 🏆  GitHub Trophies
 
 <br/>
 
@@ -173,32 +157,8 @@
 
 -----
 
-<br/>
-
 <!-- ████████████████████████████████████████████████████ -->
-
-<!--                  CONNECT                           -->
-
-<!-- ████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### 🔗  Connect with Me
-
-<br/>
-
-[![discord](https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=03040a)](https://discord.gg/steamdb)
-
-</div>
-
-<br/>
-
------
-
-<!-- ████████████████████████████████████████████████████ -->
-
 <!--                  FOOTER WAVE                       -->
-
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
