@@ -92,32 +92,6 @@
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-<!--                  GITHUB STATS                      -->
-<!-- ████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### 📊  GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eric-Enterprise&show_icons=true&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&hide_border=false" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Enterprise&layout=compact&langs_count=8&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&text_color=bae6fd&hide_border=false" height="180"/>
-
-<br/><br/>
-
-[![streak](https://streak-stats.demolab.com?user=Eric-Enterprise&theme=transparent&hide_border=false&border=0369a1&border_radius=18&background=03040a&stroke=0369a1&ring=38bdf8&fire=7dd3fc&currStreakNum=ffffff&sideNums=bae6fd&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=475569&excludeDaysLabel=475569)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
------
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████ -->
 <!--               ACTIVITY GRAPH                       -->
 <!-- ████████████████████████████████████████████████████ -->
 
@@ -133,21 +107,67 @@
 
 <br/>
 
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=40&color=0369a1&section=header)
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+<!--                SNAKE CONTRIBUTION                  -->
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### 🐍  Contribution Snake
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Eric-Enterprise/Eric-Enterprise/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+<sub>✦ Die Snake wird automatisch aus deinem Contribution-Graph generiert – dafür braucht dein Profil-Repo die <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in einem Workflow. Sag Bescheid, wenn ich dir die Workflow-Datei dafür bauen soll. ✦</sub>
+
+</div>
+
+<br/>
+
 -----
 
 <br/>
 
 <!-- ████████████████████████████████████████████████████ -->
-<!--                   TROPHIES                         -->
+<!--                 TERMINAL TYPING                    -->
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### 🏆  GitHub Trophies
+### 💻  What I'm Up To
 
 <br/>
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Eric-Enterprise&theme=algolia&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![typing2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+compiling_dreams.exe...;%3E+debugging_life+%F0%9F%90%9B;%3E+push+origin+main+--force+%F0%9F%98%88;%3E+status%3A+caffeinated+%E2%98%95)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=40&color=38bdf8&section=header)
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████ -->
+<!--                 ANIMATED VIBES                     -->
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### ✦  Currently Vibing With
+
+<br/>
+
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="260" style="border-radius:16px"/>
+
+<br/><br/>
+
+![wave](https://capsule-render.vercel.app/api?type=cylinder&color=0:0c2a4a,100:38bdf8&height=90&section=header&text=%20&fontSize=0)
 
 </div>
 
