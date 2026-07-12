@@ -150,27 +150,6 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=40&color=38bdf8&section=header)
 
-<br/>
-
-<!-- ████████████████████████████████████████████████████ -->
-<!--                 ANIMATED VIBES                     -->
-<!-- ████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### ✦  Currently Vibing With
-
-<br/>
-
-<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="260" style="border-radius:16px"/>
-
-<br/><br/>
-
-![wave](https://capsule-render.vercel.app/api?type=cylinder&color=0:0c2a4a,100:38bdf8&height=90&section=header&text=%20&fontSize=0)
-
-</div>
-
-<br/>
 
 -----
 
