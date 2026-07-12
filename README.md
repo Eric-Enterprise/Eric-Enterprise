@@ -148,7 +148,6 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=40&color=38bdf8&section=header)
 
 
 -----
