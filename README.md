@@ -26,8 +26,7 @@
 
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=eric-enterprise&style=for-the-badge&color=0369a1&labelColor=03040a&label=PROFILE+VIEWS) 
-![discord](https://img.shields.io/badge/Discord-steamdb-38bdf8?style=for-the-badge&logo=discord&logoColor=38bdf8&labelColor=03040a&color=0c2a4a) 
+![views](https://komarev.com/ghpvc/?username=Eric-Enterprise&style=for-the-badge&color=0369a1&labelColor=03040a&label=PROFILE+VIEWS) 
 ![status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-22d3ee?style=for-the-badge&labelColor=03040a)
 
 </div>
@@ -54,7 +53,6 @@
  learning : [ Python, C ]
  loves    : [ Game Dev, Cloud, Embedded ]
  stack    : [ React, Node.js, Docker, Linux ]
- contact  : discord.gg/steamdb
  status   : Always building something 🚀
 ```
 
@@ -103,13 +101,13 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eric-enterprise&show_icons=true&count_private=true&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eric-Enterprise&show_icons=true&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&hide_border=false" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-enterprise&layout=compact&langs_count=8&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&text_color=bae6fd&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Enterprise&layout=compact&langs_count=8&theme=transparent&border_radius=18&border_color=0369a1&bg_color=03040a&title_color=38bdf8&text_color=bae6fd&hide_border=false" height="180"/>
 
 <br/><br/>
 
-[![streak](https://streak-stats.demolab.com?user=eric-enterprise&theme=transparent&hide_border=false&border=0369a1&border_radius=18&background=03040a&stroke=0369a1&ring=38bdf8&fire=7dd3fc&currStreakNum=ffffff&sideNums=bae6fd&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=475569&excludeDaysLabel=475569)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=Eric-Enterprise&theme=transparent&hide_border=false&border=0369a1&border_radius=18&background=03040a&stroke=0369a1&ring=38bdf8&fire=7dd3fc&currStreakNum=ffffff&sideNums=bae6fd&currStreakLabel=38bdf8&sideLabels=7dd3fc&dates=475569&excludeDaysLabel=475569)](https://git.io/streak-stats)
 
 </div>
 
@@ -129,7 +127,7 @@
 
 <br/>
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=eric-enterprise&bg_color=03040a&color=7dd3fc&line=0369a1&point=38bdf8&area=true&area_color=0c2a4a&hide_border=false&border_color=0369a1&radius=16&custom_title=Eric's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Eric-Enterprise&bg_color=03040a&color=7dd3fc&line=0369a1&point=38bdf8&area=true&area_color=0c2a4a&hide_border=false&border_color=0369a1&radius=16&custom_title=Eric's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -149,7 +147,7 @@
 
 <br/>
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=eric-enterprise&theme=algolia&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=Eric-Enterprise&theme=algolia&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
