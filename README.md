@@ -123,7 +123,6 @@
 
 <img src="https://raw.githubusercontent.com/Eric-Enterprise/Eric-Enterprise/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-<sub>✦ Die Snake wird automatisch aus deinem Contribution-Graph generiert – dafür braucht dein Profil-Repo die <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in einem Workflow. Sag Bescheid, wenn ich dir die Workflow-Datei dafür bauen soll. ✦</sub>
 
 </div>
 
